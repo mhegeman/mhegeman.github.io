@@ -88,7 +88,7 @@
             features.push(graphic);
             var featureSet = new FeatureSet();
             featureSet.features = features;
-            var params = { "Input_Location": featureSet, "Drive_Times": 60 };
+            var params = { "Input_Location": featureSet, "Drive_Times": 2 };
             gp.outSpatialReference = map.spatialReference;
             gp.execute(params);
             dom.byId("messages").innerHTML = "<b>Executing GP Task...</b>";
