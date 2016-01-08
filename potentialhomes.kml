@@ -1,0 +1,1844 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Homes_1stBatch</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>$9,007</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 1<br>
+<b>Address:</b> 7 Klarman Ct, Huntington Station, NY,11746<br>
+<b>Price:</b> $450,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 56<br>
+<b>Taxes:</b> $9,007<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> Y<br>
+<b>More Info:</b> <a href="http://www.redfin.com/NY/Huntington-Station/7-Klarman-Ct-11746/home/21079666?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address" target="_blank">http://www.redfin.com/NY/Huntington-Station/7-Klarman-Ct-11746/home/21079666?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address</a>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>1</value>
+				</Data>
+				<Data name='Price'>
+					<value>$450,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>56</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>Y</value>
+				</Data>
+				<Data name='More Info'>
+					<value>http://www.redfin.com/NY/Huntington-Station/7-Klarman-Ct-11746/home/21079666?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address</value>
+				</Data>
+			</ExtendedData>
+			<address>7 Klarman Ct, Huntington Station, NY,11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$10,057</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 2<br>
+<b>Address:</b> 38 E 18th St, Huntington Station, NY 11746<br>
+<b>Price:</b> $425,500<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 65<br>
+<b>Taxes:</b> $10,057<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> Y<br>
+<b>More Info:</b> <a href="http://www.redfin.com/NY/Huntington-Station/38-E-18th-St-11746/home/21081562?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address" target="_blank">http://www.redfin.com/NY/Huntington-Station/38-E-18th-St-11746/home/21081562?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address</a>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>2</value>
+				</Data>
+				<Data name='Price'>
+					<value>$425,500</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>65</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>Y</value>
+				</Data>
+				<Data name='More Info'>
+					<value>http://www.redfin.com/NY/Huntington-Station/38-E-18th-St-11746/home/21081562?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address</value>
+				</Data>
+			</ExtendedData>
+			<address>38 E 18th St, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$10,448</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 3<br>
+<b>Address:</b> 34 Bayberry Dr, Huntington, NY 11743<br>
+<b>Price:</b> $477,500<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 3.5<br>
+<b>Walk Score:</b> 64<br>
+<b>Taxes:</b> $10,448<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> Y<br>
+<b>More Info:</b> <a href="http://www.redfin.com/NY/Huntington/34-Bayberry-Dr-11743/home/21097769?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address" target="_blank">http://www.redfin.com/NY/Huntington/34-Bayberry-Dr-11743/home/21097769?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address</a>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>3</value>
+				</Data>
+				<Data name='Price'>
+					<value>$477,500</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>64</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>Y</value>
+				</Data>
+				<Data name='More Info'>
+					<value>http://www.redfin.com/NY/Huntington/34-Bayberry-Dr-11743/home/21097769?utm_source=myredfin&amp;utm_medium=email&amp;utm_campaign=email_this_listing&amp;utm_nooverride=1&amp;utm_content=address</value>
+				</Data>
+			</ExtendedData>
+			<address>34 Bayberry Dr, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 4<br>
+<b>Address:</b> Lot 3 Rogers Ave, Huntington, NY 11743<br>
+<b>Price:</b> $509,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 36<br>
+<b>Taxes:</b> <br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>4</value>
+				</Data>
+				<Data name='Price'>
+					<value>$509,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>36</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>Lot 3 Rogers Ave, Huntington, NY 11743</address>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>$8,384</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 5<br>
+<b>Address:</b> 166 Brooklyn Ave, Huntington, NY 11743<br>
+<b>Price:</b> $419,000<br>
+<b>Beds:</b> 6<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 25<br>
+<b>Taxes:</b> $8,384<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> N<br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>5</value>
+				</Data>
+				<Data name='Price'>
+					<value>$419,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>6</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>25</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>N</value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>166 Brooklyn Ave, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$12,011</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 6<br>
+<b>Address:</b> 28 South Ln, Huntington, NY 11743<br>
+<b>Price:</b> $419,000<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 4<br>
+<b>Walk Score:</b> 39<br>
+<b>Taxes:</b> $12,011<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>6</value>
+				</Data>
+				<Data name='Price'>
+					<value>$419,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>4</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>39</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>28 South Ln, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$11,799</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 7<br>
+<b>Address:</b> 289 Maplewood Rd, Huntington Station, NY 11746<br>
+<b>Price:</b> $465,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 18<br>
+<b>Taxes:</b> $11,799<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> N<br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>7</value>
+				</Data>
+				<Data name='Price'>
+					<value>$465,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>18</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>N</value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>289 Maplewood Rd, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$11,894</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 8<br>
+<b>Address:</b> 6 Mickey Ct, Huntington Station, NY 11746<br>
+<b>Price:</b> $535,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 20<br>
+<b>Taxes:</b> $11,894<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>8</value>
+				</Data>
+				<Data name='Price'>
+					<value>$535,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>20</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>6 Mickey Ct, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$8,962</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 9<br>
+<b>Address:</b> 150 Lodge Ave, Huntington Station, NY 11746<br>
+<b>Price:</b> $434,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 26<br>
+<b>Taxes:</b> $8,962<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>9</value>
+				</Data>
+				<Data name='Price'>
+					<value>$434,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>26</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>150 Lodge Ave, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$8,180</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 10<br>
+<b>Address:</b> 13 Bona Ct, Huntington Station, NY 11746<br>
+<b>Price:</b> $424,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 34<br>
+<b>Taxes:</b> $8,180<br>
+<b>Comments:</b> Pending<br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>10</value>
+				</Data>
+				<Data name='Price'>
+					<value>$424,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>34</value>
+				</Data>
+				<Data name='Comments'>
+					<value>Pending</value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>13 Bona Ct, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$9,267</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 11<br>
+<b>Address:</b> 6 Chelmsford Dr, Wheatly Heights, NY 11798<br>
+<b>Price:</b> $425,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 18<br>
+<b>Taxes:</b> $9,267<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>11</value>
+				</Data>
+				<Data name='Price'>
+					<value>$425,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>18</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>6 Chelmsford Dr, Wheatly Heights, NY 11798</address>
+		</Placemark>
+		<Placemark>
+			<name>$13,599</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 12<br>
+<b>Address:</b> 9 Raintree Rd, Melville, NY 11747<br>
+<b>Price:</b> $549,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 1<br>
+<b>Taxes:</b> $13,599<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>12</value>
+				</Data>
+				<Data name='Price'>
+					<value>$549,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>1</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>9 Raintree Rd, Melville, NY 11747</address>
+		</Placemark>
+		<Placemark>
+			<name>$9,027</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 13<br>
+<b>Address:</b> 43 President St, Huntington Station, NY 11746<br>
+<b>Price:</b> $439,900<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 4<br>
+<b>Walk Score:</b> 56<br>
+<b>Taxes:</b> $9,027<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>13</value>
+				</Data>
+				<Data name='Price'>
+					<value>$439,900</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>4</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>56</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>43 President St, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-3-hover'>
+			<IconStyle>
+				<color>ff00ff55</color>
+				<scale>1.0</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>$12,429</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 14<br>
+<b>Address:</b> 7 Hadland Dr, Huntington, NY 11743<br>
+<b>Price:</b> $490,000<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 69<br>
+<b>Taxes:</b> $12,429<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>14</value>
+				</Data>
+				<Data name='Price'>
+					<value>$490,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>69</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>7 Hadland Dr, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$10,000</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 15<br>
+<b>Address:</b> 11 Murfield Place, Melville, NY 11747<br>
+<b>Price:</b> $550,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 57<br>
+<b>Taxes:</b> $10,000<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>15</value>
+				</Data>
+				<Data name='Price'>
+					<value>$550,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>57</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>11 Murfield Place, Melville, NY 11747</address>
+		</Placemark>
+		<Placemark>
+			<name>$12,271</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 16<br>
+<b>Address:</b> 25 Overhill Rd, Melville, NY 11747<br>
+<b>Price:</b> $648,888<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 51<br>
+<b>Taxes:</b> $12,271<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>16</value>
+				</Data>
+				<Data name='Price'>
+					<value>$648,888</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>51</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>25 Overhill Rd, Melville, NY 11747</address>
+		</Placemark>
+		<Placemark>
+			<name>$12,728</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 17<br>
+<b>Address:</b> 22 Strawberry Ln, Huntington, NY 11743<br>
+<b>Price:</b> $625,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 42<br>
+<b>Taxes:</b> $12,728<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>17</value>
+				</Data>
+				<Data name='Price'>
+					<value>$625,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>42</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>22 Strawberry Ln, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$8,805</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 18<br>
+<b>Address:</b> 262 W 22nd St, Huntington, NY 11743<br>
+<b>Price:</b> $485,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 53<br>
+<b>Taxes:</b> $8,805<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> N<br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>18</value>
+				</Data>
+				<Data name='Price'>
+					<value>$485,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>53</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>N</value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>262 W 22nd St, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$7,345</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 19<br>
+<b>Address:</b> 38 Sheridan St, Huntington, NY 11743<br>
+<b>Price:</b> $519,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 55<br>
+<b>Taxes:</b> $7,345<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> Y<br>
+<b>Yes or No:</b> N<br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>19</value>
+				</Data>
+				<Data name='Price'>
+					<value>$519,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>55</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value>Y</value>
+				</Data>
+				<Data name='Yes or No'>
+					<value>N</value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>38 Sheridan St, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$7,073</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 20<br>
+<b>Address:</b> 110 Nelson St, Farmingdale, NY 11735<br>
+<b>Price:</b> $409,000<br>
+<b>Beds:</b> 3<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 67<br>
+<b>Taxes:</b> $7,073<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>20</value>
+				</Data>
+				<Data name='Price'>
+					<value>$409,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>3</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>67</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>110 Nelson St, Farmingdale, NY 11735</address>
+		</Placemark>
+		<Placemark>
+			<name>$8,069</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 21<br>
+<b>Address:</b> 7 Junard Dr, Farmingdale, NY 11735<br>
+<b>Price:</b> $449,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 55<br>
+<b>Taxes:</b> $8,069<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>21</value>
+				</Data>
+				<Data name='Price'>
+					<value>$449,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>55</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>7 Junard Dr, Farmingdale, NY 11735</address>
+		</Placemark>
+		<Placemark>
+			<name>$10,316</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 22<br>
+<b>Address:</b> 1 Donald Ct, Farmingdale, NY 11735<br>
+<b>Price:</b> $484,000<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 72<br>
+<b>Taxes:</b> $10,316<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>22</value>
+				</Data>
+				<Data name='Price'>
+					<value>$484,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>72</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>1 Donald Ct, Farmingdale, NY 11735</address>
+		</Placemark>
+		<Placemark>
+			<name>$11,394</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 23<br>
+<b>Address:</b> 81 Philadelphia Ave, Massapequa Park, NY 11762<br>
+<b>Price:</b> $445,000<br>
+<b>Beds:</b> 3<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 62<br>
+<b>Taxes:</b> $11,394<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>23</value>
+				</Data>
+				<Data name='Price'>
+					<value>$445,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>3</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>62</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>81 Philadelphia Ave, Massapequa Park, NY 11762</address>
+		</Placemark>
+		<Placemark>
+			<name>$11,278</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 24<br>
+<b>Address:</b> 90 N Hawthorne St, Massapequa, NY 11758<br>
+<b>Price:</b> $495,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 44<br>
+<b>Taxes:</b> $11,278<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>24</value>
+				</Data>
+				<Data name='Price'>
+					<value>$495,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>44</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>90 N Hawthorne St, Massapequa, NY 11758</address>
+		</Placemark>
+		<Placemark>
+			<name>$9,982</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 25<br>
+<b>Address:</b> 14 Dover Rd, Massapequa, NY 11758<br>
+<b>Price:</b> $489,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 56<br>
+<b>Taxes:</b> $9,982<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>25</value>
+				</Data>
+				<Data name='Price'>
+					<value>$489,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>56</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>14 Dover Rd, Massapequa, NY 11758</address>
+		</Placemark>
+		<Placemark>
+			<name>$11,966</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 29<br>
+<b>Address:</b> 13 Trainer Court, Huntington, NY 11743<br>
+<b>Price:</b> $589,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 56<br>
+<b>Taxes:</b> $11,966<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>29</value>
+				</Data>
+				<Data name='Price'>
+					<value>$589,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>56</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>13 Trainer Court, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>11021</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 26<br>
+<b>Address:</b> 27 Brompton Pl, Huntington Station, NY 11746<br>
+<b>Price:</b> $449,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 49<br>
+<b>Taxes:</b> 11021<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> <a href="https://www.redfin.com/NY/Huntington-Station/27-Brompton-Pl-11746/home/21241675" target="_blank">https://www.redfin.com/NY/Huntington-Station/27-Brompton-Pl-11746/home/21241675</a>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>26</value>
+				</Data>
+				<Data name='Price'>
+					<value>$449,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>49</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value>https://www.redfin.com/NY/Huntington-Station/27-Brompton-Pl-11746/home/21241675</value>
+				</Data>
+			</ExtendedData>
+			<address>27 Brompton Pl, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>10144</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 27<br>
+<b>Address:</b> 56 Todd Court, South Huntington, NY 11746<br>
+<b>Price:</b> $450,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 58<br>
+<b>Taxes:</b> 10144<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> <a href="https://www.redfin.com/NY/Huntington-Station/56-Todd-Ct-11746/home/21081535" target="_blank">https://www.redfin.com/NY/Huntington-Station/56-Todd-Ct-11746/home/21081535</a>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>27</value>
+				</Data>
+				<Data name='Price'>
+					<value>$450,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>58</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value>https://www.redfin.com/NY/Huntington-Station/56-Todd-Ct-11746/home/21081535</value>
+				</Data>
+			</ExtendedData>
+			<address>56 Todd Court, South Huntington, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$4,326</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 28<br>
+<b>Address:</b> 3 Schaefer St, Huntington Station, NY 11746<br>
+<b>Price:</b> $439,900<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 57<br>
+<b>Taxes:</b> $4,326<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> <a href="https://www.redfin.com/NY/Huntington-Station/3-Schaefer-St-11746/home/21079701" target="_blank">https://www.redfin.com/NY/Huntington-Station/3-Schaefer-St-11746/home/21079701</a>
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>28</value>
+				</Data>
+				<Data name='Price'>
+					<value>$439,900</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>57</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value>https://www.redfin.com/NY/Huntington-Station/3-Schaefer-St-11746/home/21079701</value>
+				</Data>
+			</ExtendedData>
+			<address>3 Schaefer St, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$7,825</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 31<br>
+<b>Address:</b> 73 E 19th St, Huntington Station, NY 11746<br>
+<b>Price:</b> $349,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 57<br>
+<b>Taxes:</b> $7,825<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>31</value>
+				</Data>
+				<Data name='Price'>
+					<value>$349,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>57</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>73 E 19th St, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$9,251</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 30<br>
+<b>Address:</b> 37 Hillwood Dr, Huntington Station, NY 11746<br>
+<b>Price:</b> $399,999<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 19<br>
+<b>Taxes:</b> $9,251<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>30</value>
+				</Data>
+				<Data name='Price'>
+					<value>$399,999</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>19</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>37 Hillwood Dr, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$8,665</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 32<br>
+<b>Address:</b> 1 Atlas Ct, Huntington, NY 11743<br>
+<b>Price:</b> $429,000<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 2<br>
+<b>Walk Score:</b> 62<br>
+<b>Taxes:</b> $8,665<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>32</value>
+				</Data>
+				<Data name='Price'>
+					<value>$429,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>62</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>1 Atlas Ct, Huntington, NY 11743</address>
+		</Placemark>
+		<Placemark>
+			<name>$10,400</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 33<br>
+<b>Address:</b> 54 Sunset Ave, Wheatley Heights, NY 11798<br>
+<b>Price:</b> $399,929<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 19<br>
+<b>Taxes:</b> $10,400<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>33</value>
+				</Data>
+				<Data name='Price'>
+					<value>$399,929</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>19</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>54 Sunset Ave, Wheatley Heights, NY 11798</address>
+		</Placemark>
+		<Placemark>
+			<name>$13,056</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 34<br>
+<b>Address:</b> 1 May St, Huntington Station, NY 11746<br>
+<b>Price:</b> $379,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 60<br>
+<b>Taxes:</b> $13,056<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>34</value>
+				</Data>
+				<Data name='Price'>
+					<value>$379,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>60</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>1 May St, Huntington Station, NY 11746</address>
+		</Placemark>
+		<Placemark>
+			<name>$16,570</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 35<br>
+<b>Address:</b> 19 Hinton Ave, Babylon, NY 11702<br>
+<b>Price:</b> $489,000<br>
+<b>Beds:</b> 5<br>
+<b>Baths:</b> 3<br>
+<b>Walk Score:</b> 21<br>
+<b>Taxes:</b> $16,570<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>35</value>
+				</Data>
+				<Data name='Price'>
+					<value>$489,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>5</value>
+				</Data>
+				<Data name='Baths'>
+					<value>3</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>21</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>19 Hinton Ave, Babylon, NY 11702</address>
+		</Placemark>
+		<Placemark>
+			<name>$6,797</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>OID:</b> 36<br>
+<b>Address:</b> 101 Livingston Ave, Babylon, NY 11702<br>
+<b>Price:</b> $529,000<br>
+<b>Beds:</b> 4<br>
+<b>Baths:</b> 2.5<br>
+<b>Walk Score:</b> 57<br>
+<b>Taxes:</b> $6,797<br>
+<b>Comments:</b> <br>
+<b>Toured?:</b> <br>
+<b>Yes or No:</b> <br>
+<b>More Info:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='OID'>
+					<value>36</value>
+				</Data>
+				<Data name='Price'>
+					<value>$529,000</value>
+				</Data>
+				<Data name='Beds'>
+					<value>4</value>
+				</Data>
+				<Data name='Baths'>
+					<value>2.5</value>
+				</Data>
+				<Data name='Walk Score'>
+					<value>57</value>
+				</Data>
+				<Data name='Comments'>
+					<value></value>
+				</Data>
+				<Data name='Toured?'>
+					<value></value>
+				</Data>
+				<Data name='Yes or No'>
+					<value></value>
+				</Data>
+				<Data name='More Info'>
+					<value></value>
+				</Data>
+			</ExtendedData>
+			<address>101 Livingston Ave, Babylon, NY 11702</address>
+		</Placemark>
+	</Document>
+</kml>
