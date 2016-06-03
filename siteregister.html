@@ -18,17 +18,7 @@
         //enabling new cartography and themes
         google.maps.visualRefresh = true;
         //Setting starting option of map
-        if (navigator.geolocation) {
-          navigator.geolocation.getCurrentPosition(
-            function(position) {
-              var lat = position.coords.latitude;
-              var lng = position.coords.longitude;
-              //creating LatLng object with latitude and longitude
-              var devCenter = new google.maps.LatLng(lat, lng);
-              map.setCenter(devCenter);
-              map.setZoom(15);
-            });
-        }
+        
         //Getting map DOM element
         var mapElement =  document.getElementById('mapDiv');
         //Creating a map with DOM element which is just obtained
