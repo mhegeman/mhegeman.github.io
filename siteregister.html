@@ -18,7 +18,11 @@
         //enabling new cartography and themes
         google.maps.visualRefresh = true;
         //Setting starting option of map
-        
+        var = mapOptions = {
+          center: new google.maps.LatLng(40.8488, -73.0899),
+          zoom: 10,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
         //Getting map DOM element
         var mapElement =  document.getElementById('mapDiv');
         //Creating a map with DOM element which is just obtained
