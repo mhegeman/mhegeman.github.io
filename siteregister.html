@@ -28,6 +28,17 @@
         map = new google.maps.Map(mapElement, mapOptions);
       }
       google.maps.event.addDomListener(window, 'load', initMap);
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(
+          function(position) {
+            var lat = position.coords.latitude;
+            var lng = position.coords.longitude;
+            //creating LatLng object with latitude and longitude
+            var devCenter = new google.maps.LatLng(lat, lng);
+            map.setCenter(devCenter);
+            map.setZoom(15);
+          });
+      }
     </script>
   </head>
   <body>
