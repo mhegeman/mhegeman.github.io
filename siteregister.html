@@ -29,6 +29,13 @@
           zoom: 6
         });
         var infoWindow = new google.maps.InfoWindow({map: map});
+		var layer = new google.maps.FusionTablesLayer({
+		  query: {
+            select: '\'Geocodable address\'',
+            from: '1n-4SLeeyR1SJN7UvBlFBJ_YoQj7QyGK7FmamN_kc'
+          }
+        });
+        layer.setMap(map);
 
         // Try HTML5 geolocation.
         if (navigator.geolocation) {
