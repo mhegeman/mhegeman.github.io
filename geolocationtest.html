@@ -21,8 +21,13 @@
         var map = new google.maps.Map(mapDiv, {
             center: {lat: 40.540, lng: -72.546},
             zoom: 10
+        var pos = {
+              lat: 40.5,
+              lng: -73.0
+            };
         var infoWindow = new google.maps.InfoWindow({map: map});
-
+        infoWindow.setPosition(pos);
+        infoWindow.setContent('So far so good');
         });
       }
     </script>
