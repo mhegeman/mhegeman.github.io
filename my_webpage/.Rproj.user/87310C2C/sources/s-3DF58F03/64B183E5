@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558746686830.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "64B183E5",
+    "lastKnownWriteTime" : 1558747571,
+    "last_content_update" : -2147483648,
+    "path" : "~/GitHub/mhegeman.github.io/my_webpage/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,30",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
